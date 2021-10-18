@@ -1,0 +1,33 @@
+body{
+    background-color: crimson;
+}
+#pl1{
+    background-color: white;
+    border-radius: 20px;
+    width: 870px;
+    height: 200px;
+}
+#pl2{
+    background-color: white;
+    border-radius: 20px;
+    width: 870px;
+    height: 200px;
+}
+.container{
+    padding-top: 50px;
+}
+#pl1name{
+    width: 400px;
+    height: 35px;
+    height: 35px;
+    border-radius: 5px;
+}
+#pl2name{
+    width: 400px;
+    height: 35px;
+    height: 35px;
+    border-radius: 5px;
+}
+#btnlogin{
+    width: 200px;
+}
